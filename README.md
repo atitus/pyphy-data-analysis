@@ -1,2 +1,3 @@
 # pyphy-data-analysis
-Data analysis notebooks for physics labs
+
+Data analysis notebooks for physics labs.
